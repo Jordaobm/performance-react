@@ -1,6 +1,5 @@
 import { memo, useState } from "react";
 import { Item } from "../../types/Item";
-// import { Span } from "./Span";
 
 import dynamic from "next/dynamic";
 import { SpanProps } from "./Span";
