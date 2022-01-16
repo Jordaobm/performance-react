@@ -1,0 +1,23 @@
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+  color: rgb(55, 53, 47);
+  font-family: "Roboto", sans-serif;
+}
+
+h3 {
+  font-size: 1.25em;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.container {
+  padding: 20px;
+}
