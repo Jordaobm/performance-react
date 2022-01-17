@@ -21,6 +21,9 @@
       <li><a href="#listVirtualized">Virtualização de Listas</a></li>
   </ul>
   <li><a href="#results">Resultados</a> 
+  <li><a href="#tecs">Tecnologias utilizadas na aplicação</a>
+  <li><a href="#fim">Considerações finais</a>
+  <li><a href="#creditos">Créditos</a>
     
 </ul>
 
@@ -133,4 +136,37 @@ Por se tratar de uma aplicação simples e de testes apenas, a diferença fica n
   <img alt="10" title="10" src="https://github.com/Jordaobm/performance-react/blob/master/public/documentation/10.png" width="1000px" />
 </div>
 
+
+<h2 id="tecs">🛠 Tecnologias utilizadas na aplicação</h2>
+
+<ul>
+ <li>"json-server": "^0.17.0"</li>
+ <li>"next": "12.0.8"</li>
+  <li>"react": "17.0.2"</li>
+  <li>"react-dom": "17.0.2"</li>
+  <li>"react-virtualized": "^9.22.3"</li>
+</ul>
+
+<h2 id="fim">👷 Considerações finais</h2>
+
+O repositório ficará guardado com esse conhecimento para que futuramente quando precisarmos, ele estará aqui e disponível para consulta.
+
+<h2 id="creditos">👨‍🎓 Créditos</h2>
+
+A todo pessoal da <a href="https://app.rocketseat.com.br/node/performando-apps-com-react-js">Rocketseat 🚀</a> pelo módulo super interessante!!!
+
+<a href="#start">👆 Voltar ao Sumário</a>
+
+### Autor
+
+---
+
+<a href="https://github.com/Jordaobm" target="_blank">
+ <img src="https://avatars.githubusercontent.com/u/70074016?v=4" width="100px;" alt="Jordão"/>
+ <br />
+ <sub><b>Jordão Beghetto Massariol</b></sub></a> <a href="https://github.com/Jordaobm" title="Jordão">🚀</a>
+
+Feito com ❤️ por Jordão Beghetto Massariol 👋🏽 Entre em contato!
+
+<a href="https://www.linkedin.com/in/jord%C3%A3o-beghetto-massariol-9a9800105/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
